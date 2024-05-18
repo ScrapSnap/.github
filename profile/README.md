@@ -10,7 +10,7 @@
   </a>
 </p>
 
-👋 Welcome to ScrapSnap, an innovative solution for managing waste collection and improving community cleanliness. This README provides an overview of the features, installation instructions, and usage guidelines for ScrapSnap.
+👋 Welcome to ScrapSnap, an innovative Progressive Web Application (PWA) designed to revolutionize waste management and enhance community cleanliness. This README provides an overview of the features, installation instructions, and usage guidelines for ScrapSnap. Plus, with its PWA capabilities, ScrapSnap can seamlessly work offline on both web and mobile platforms, ensuring uninterrupted access to its features regardless of connectivity.
 
 ## Table of Contents
 
