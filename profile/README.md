@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon-512x512.png" alt="ScrapSnap Logo" width="200"/>
+  <img src="./icon-512x512.png" alt="ScrapSnap Logo" width="200"/>
 </p>
 
 <h1 align="center">ScrapSnap 👋</h1>
