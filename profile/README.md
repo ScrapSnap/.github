@@ -1,8 +1,8 @@
-# ScrapSnap 👋
-
 <p align="center">
-  <img src="https://yourimageurl.com/scrapsnap-logo.png" alt="ScrapSnap Logo" width="200"/>
+  <img src="icon-512x512.png" alt="ScrapSnap Logo" width="200"/>
 </p>
+
+<h1 align="center">ScrapSnap 👋</h1>
 
 Welcome to ScrapSnap, an innovative solution for managing waste collection and improving community cleanliness. This README provides an overview of the features, installation instructions, and usage guidelines for ScrapSnap.
 
