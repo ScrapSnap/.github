@@ -5,12 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="NestJS" width="50" height="50" style="margin: 0 20px;"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="Typescript" width="50" height="50" style="margin: 0 20px;"/>
-  <img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="VueJS" width="50" height="50" style="margin: 0 20px;"/>
-  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JS" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="JS" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="JS" width="50" height="50"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs,typescript,vuejs,javascript,docker,mongodb" />
+  </a>
 </p>
 
 👋 Welcome to ScrapSnap, an innovative solution for managing waste collection and improving community cleanliness. This README provides an overview of the features, installation instructions, and usage guidelines for ScrapSnap.
