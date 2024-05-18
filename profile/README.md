@@ -1,7 +1,7 @@
 <h1 align="center">ScrapSnap</h1>
 
 <p align="center">
-  <img src="./icon-512x512.png" alt="ScrapSnap Logo" width="200"/>
+  <img src="https://github.com/ScrapSnap/.github/blob/main/profile/icon-512x512.png" alt="ScrapSnap Logo" width="200"/>
 </p>
 
 <p align="center">
