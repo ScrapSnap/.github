@@ -14,7 +14,22 @@
 
 [Pitch (Google Slides)](https://docs.google.com/presentation/d/134nrVUDLRVHCj92R1ZBsoqXtbZc5VBZ4/edit#slide=id.g2e54ed02892_0_0)
 
-## Table of Contents
+<p align="center">
+  <img src="https://github.com/ScrapSnap/ScrapSnapWEB/blob/main/screenshots/ScrapSnapSafariFade.gif" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ScrapSnap/ScrapSnapWEB/blob/main/screenshots/dashboard.png" width="49%" />
+  <img src="https://github.com/ScrapSnap/ScrapSnapWEB/blob/main/screenshots/schedules.png" width="49%" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/ScrapSnap/ScrapSnapWEB/blob/main/screenshots/collection_points.png" width="49%" />
+  <img src="https://github.com/ScrapSnap/ScrapSnapWEB/blob/main/screenshots/inappropriate_disposals.png" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github.com/ScrapSnap/ScrapSnapWEB/blob/main/screenshots/profile.png" width="75%" />
+</p>
 
 ### Features
 ScrapSnap offers a range of features designed to streamline waste management and encourage community participation:
